@@ -8,7 +8,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Node.js+%7C+React+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Shopify+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -49,7 +49,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 **🎨 Frontend**
 
-<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -59,7 +58,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 **⚙️ Backend & CMS**
 
-<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
 <img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
 <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
 <img src="https://img.shields.io/badge/Shopify-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
@@ -93,7 +91,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
     <td width="50%" valign="top" align="left">
       <h3>🔌 REST API Backend System</h3>
       <blockquote>Scalable backend API with secure JWT authentication.</blockquote>
-      <p><strong>Stack:</strong> <code>Node.js</code> <code>Express</code> <code>JWT</code></p>
+      <p><strong>Stack:</strong> <code>Express</code> <code>JWT</code> <code>MySQL</code></p>
       ✅ Auth system with token refresh<br/>
       ✅ Full CRUD endpoints<br/>
       ✅ Middleware architecture<br/>
@@ -103,24 +101,39 @@ mindset     : "Don't just write code — build systems that solve real problems.
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>🌐 Full Stack Web App</h3>
-      <blockquote>End-to-end app with dynamic React frontend and Node.js backend.</blockquote>
-      <p><strong>Stack:</strong> <code>React</code> <code>Node.js</code> <code>MySQL</code></p>
+      <blockquote>End-to-end app with dynamic frontend and backend integration.</blockquote>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>MySQL</code> <code>Laravel</code></p>
       ✅ RESTful API integration<br/>
       ✅ Responsive dynamic UI<br/>
       ✅ Relational database management<br/>
       ✅ State management
     </td>
     <td width="50%" valign="top" align="left">
-      <h3>✨ Voxenon — SaaS Landing Platform</h3>
-      <blockquote>Performance-first SaaS landing page with conversion-optimized UX.</blockquote>
-      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code></p>
+      <h3>✨ Voxenon — SaaS Landing Platform 🌟</h3>
+      <blockquote><strong>Featured Product:</strong> Performance-first SaaS landing page with conversion-optimized UX & enterprise-grade architecture.</blockquote>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>TailwindCSS</code> <code>TypeScript</code></p>
       ✅ SaaS-grade UI architecture<br/>
       ✅ Fully responsive design<br/>
       ✅ High Lighthouse score<br/>
-      ✅ <a href="https://voxenon-landing.vercel.app/">🔗 Live Demo →</a>
+      ✅ Advanced analytics integration<br/>
+      ✅ Conversion-optimized landing<br/>
+      🔗 <a href="https://voxenon-landing.vercel.app/"><strong>Live Demo →</strong></a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+## 📚 Extra Mid-Level Skills
+
+<div align="center">
+  <p><em>Additional technologies in active development & experimentation</em></p>
+  
+  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
+</div>
 
 <br/>
 
@@ -138,16 +151,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <div align="center">
   <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
 </div>
-
-<br/>
-
----
-
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomidevo8&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
-</div> -->
 
 <br/>
 
