@@ -62,14 +62,51 @@ A complete web app with frontend + backend integration.
 - Tech: React, Node.js, MySQL
 - Features: API integration, dynamic UI, database management
 
-### 🔹 Voxenon SaaS Landing Page
-A modern SaaS landing page built with clean UI/UX principles and responsive design.
+## 🚀 Featured SaaS Project
 
-🔗 Live Demo: https://voxenon-landing.vercel.app/
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥%20Featured%20Project-Voxenon%20SaaS-000000?style=for-the-badge&labelColor=000000&color=white" />
+</p>
 
-- Focus: SaaS product marketing page
-- Tech: React / Next.js / Tailwind (adjust if needed)
-- Features: Responsive UI, modern design system, conversion-focused layout
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20SAAS%20PROJECT-VOXENON-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+</p>
+
+### 🌐 Voxenon – SaaS Landing Platform
+
+<p align="center">
+  <b>A modern SaaS landing experience built with performance-first UI/UX and conversion-focused design.</b>
+</p>
+
+<p align="center">
+  <a href="https://voxenon-landing.vercel.app/" target="_blank">
+    🔗 Live Demo
+  </a>
+</p>
+
+---
+
+### ⚡ What it does
+- 🧠 Modern SaaS landing page architecture
+- 🎯 Conversion-optimized UI/UX design
+- 📱 Fully responsive across all devices
+- ⚡ High-performance frontend experience
+
+---
+
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 💎 Why this project matters
+- Demonstrates **real SaaS product thinking**
+- Shows **frontend + UX ability**
+- Represents **startup-level UI engineering**
 
 ---
 
