@@ -48,7 +48,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <br/>
 
 **🎨 Frontend**
-
 <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -57,15 +56,12 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <br/>
 
 **⚙️ Backend & CMS**
-
 <img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
 <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
 <img src="https://img.shields.io/badge/Shopify-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
-
 <br/>
 
 **🗄️ Databases**
-
 <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
