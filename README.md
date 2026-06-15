@@ -198,6 +198,14 @@ mindset     : "Don't just write code — build systems that solve real problems.
   <a href="https://naumansajjad.infy.uk">
     <img src="https://img.shields.io/badge/Portfolio-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
+  &nbsp;
+  <a href="https://profiles.wordpress.org/nomidevo/">
+    <img src="https://img.shields.io/badge/WordPress-Profile-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
+  </a>
+  &nbsp;
+  <a href="https://gravatar.com/nomideveloper628">
+    <img src="https://img.shields.io/badge/Gravatar-nomideveloper628-1a1a2e?style=for-the-badge&logo=gravatar&logoColor=1E8CBE" />
+  </a>
 </div>
 
 <br/>
