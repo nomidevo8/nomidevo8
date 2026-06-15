@@ -81,6 +81,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
   <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vue.js&logoColor=3AB795" />
   <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
 </div>
 
 <br/>
