@@ -143,11 +143,11 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nomidevo8&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
-</div>
+</div> -->
 
 <br/>
 
