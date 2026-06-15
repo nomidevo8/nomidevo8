@@ -72,6 +72,19 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 <br/>
 
+
+## 📚 Extra Mid-Level Skills
+
+<div align="center">
+  <p><em>Additional technologies in active development & experimentation</em></p>
+  
+  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
+</div>
+
+<br/>
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -120,19 +133,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-## 📚 Extra Mid-Level Skills
-
-<div align="center">
-  <p><em>Additional technologies in active development & experimentation</em></p>
-  
-  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
-</div>
 
 <br/>
 
