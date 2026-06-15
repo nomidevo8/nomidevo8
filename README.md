@@ -1,216 +1,193 @@
-# <div align="center"> 
-# 👋 Hi, I'm **Nomi**
-### Full Stack Developer & WordPress Expert
-### 🇵🇰 Based in Pakistan | Building Real-World Solutions
+<!-- HEADER WAVE BANNER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nomi&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%26%20WordPress%20Developer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=65&descSize=20&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <a href="https://naumansajjad.infy.uk/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+<br/>
+
+<!-- TYPING SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Node.js+%7C+React+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/noman-sajjad-infy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nomideveloper628@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+```yaml
+name        : Nomi
+role        : Full Stack & WordPress Developer
+location    : Pakistan 🇵🇰
+focus       : Scalable web systems, APIs & business automation
+available   : Open to freelance & remote opportunities
+mindset     : "Don't just write code — build systems that solve real problems."
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+<br/>
+
+**🧠 Languages**
+
+<img src="https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/jQuery-1a1a2e?style=for-the-badge&logo=jquery&logoColor=78DBFF" />
+<img src="https://img.shields.io/badge/Liquid-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
+
+<br/><br/>
+
+**🎨 Frontend**
+
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+<br/><br/>
+
+**⚙️ Backend & CMS**
+
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
+<img src="https://img.shields.io/badge/Shopify-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
+
+<br/><br/>
+
+**🗄️ Databases**
+
+<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
 </div>
 
----
-
-## 🎯 What I Do
-
-I specialize in building **scalable, production-ready applications** that solve real business problems. From custom WordPress solutions to full-stack web applications, I deliver code that performs.
-
-- 🏗️ **Architecture & Design**: Building robust systems with clean, maintainable code
-- 🚀 **Full-Stack Development**: End-to-end solutions from database to UI
-- 🛠️ **Performance Optimization**: Ensuring fast, efficient applications
-- 🔐 **Best Practices**: Security, scalability, and reliability first
-
----
-
-## 💼 Expertise
-
-### **Languages & Technologies**
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### **Platforms & Tools**
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-      <br><small>Theme & Plugin Dev</small>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-      <br><small>Theme Customization</small>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <br><small>Styling</small>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <br><small>Version Control</small>
-    </td>
-  </tr>
-</table>
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **Voxenon – Modern SaaS Platform**
-> A high-performance SaaS landing page with conversion-focused design
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h3>🔐 WordPress Client Portal</h3>
+      <blockquote>Role-based client management system built on WordPress.</blockquote>
+      <p><strong>Stack:</strong> <code>WordPress</code> <code>PHP</code> <code>MySQL</code></p>
+      ✅ Role-based access control<br/>
+      ✅ Custom admin dashboards<br/>
+      ✅ Secure authentication system<br/>
+      ✅ Multi-client support
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h3>🔌 REST API Backend System</h3>
+      <blockquote>Scalable backend API with secure JWT authentication.</blockquote>
+      <p><strong>Stack:</strong> <code>Node.js</code> <code>Express</code> <code>JWT</code></p>
+      ✅ Auth system with token refresh<br/>
+      ✅ Full CRUD endpoints<br/>
+      ✅ Middleware architecture<br/>
+      ✅ Rate limiting & validation
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h3>🌐 Full Stack Web App</h3>
+      <blockquote>End-to-end app with dynamic React frontend and Node.js backend.</blockquote>
+      <p><strong>Stack:</strong> <code>React</code> <code>Node.js</code> <code>MySQL</code></p>
+      ✅ RESTful API integration<br/>
+      ✅ Responsive dynamic UI<br/>
+      ✅ Relational database management<br/>
+      ✅ State management
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h3>✨ Voxenon — SaaS Landing Platform</h3>
+      <blockquote>Performance-first SaaS landing page with conversion-optimized UX.</blockquote>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code></p>
+      ✅ SaaS-grade UI architecture<br/>
+      ✅ Fully responsive design<br/>
+      ✅ High Lighthouse score<br/>
+      ✅ <a href="https://voxenon-landing.vercel.app/">🔗 Live Demo →</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>Live:</strong> <a href="https://voxenon-landing.vercel.app/" target="_blank">voxenon-landing.vercel.app</a>
-</p>
-
-**Highlights:**
-- ⚡ Performance-optimized React/Next.js architecture
-- 🎨 Modern UI/UX with Tailwind CSS
-- 📱 Fully responsive design (mobile-first)
-- 🎯 Conversion-optimized landing experience
-- 🚀 Deployed on Vercel with continuous deployment
-
-**Tech Stack:** React • Next.js • TailwindCSS • Vercel
-
----
-
-### 2. **WordPress Client Portal**
-> Enterprise-grade client management system with role-based access
-
-**Features:**
-- 🔐 Advanced authentication & authorization system
-- 📊 Custom admin dashboards per user role
-- 📝 Secure document management
-- 🔔 Real-time notifications
-- 📱 Responsive design for all devices
-
-**Tech Stack:** WordPress • PHP • MySQL • Custom Post Types
-
----
-
-### 3. **REST API Backend System**
-> Scalable microservice architecture with enterprise security
-
-**Features:**
-- 🔒 JWT-based authentication & security
-- 📈 Rate limiting & request throttling
-- 🗄️ Database optimization & caching
-- 🔄 RESTful architecture with clean endpoints
-- 📋 Comprehensive API documentation
-
-**Tech Stack:** Node.js • Express.js • MongoDB • JWT Authentication
-
----
-
-### 4. **Full Stack Web Application**
-> Complete end-to-end solution with real-time data sync
-
-**Features:**
-- 🎨 Dynamic, responsive React UI
-- ⚡ Real-time data updates
-- 🔐 Secure API integration
-- 📊 Advanced data management
-- 🎯 Performance optimized
-
-**Tech Stack:** React • Node.js • MySQL • RESTful APIs
+<br/>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomidevo8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomidevo8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nomidevo8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9" />&nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomidevo8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
+</div>
 
-## 💡 Philosophy
-
-> **"I don't just write code — I build systems that solve real business problems with clean architecture, optimal performance, and scalable design."**
-
-### Core Principles:
-- 🎯 **Problem-Focused**: Understanding business needs first
-- 🏗️ **Clean Code**: Readable, maintainable, scalable solutions
-- ⚡ **Performance**: Optimized systems that perform under load
-- 🔐 **Security**: Best practices in every line of code
-- 📚 **Documentation**: Clear, helpful documentation for teams
+<br/>
 
 ---
 
-## 🎓 Currently Learning
+## 🏆 GitHub Trophies
 
-- 🏗️ Advanced backend architecture patterns
-- 📡 Microservices & distributed systems
-- 🔄 Real-time event-driven architectures
-- 🧠 AI/ML integration in web applications
-- 🚀 Cloud infrastructure & DevOps
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nomidevo8&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+</div>
 
----
-
-## 🤝 Open to Collaboration
-
-I'm always interested in:
-- **Freelance Projects**: Custom web applications, WordPress solutions, API development
-- **Consulting**: Architecture design, code reviews, performance optimization
-- **Partnerships**: Building innovative products together
+<br/>
 
 ---
 
-## 📞 Get In Touch
+## 📬 Let's Connect
 
-<p align="center">
-  <strong>📧 Email:</strong> nomideveloper628@gmail.com<br>
-  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/noman-sajjad-infy/" target="_blank">noman-sajjad-infy</a><br>
-  <strong>🌐 Portfolio:</strong> <a href="https://naumansajjad.infy.uk/" target="_blank">naumansajjad.infy.uk</a>
-</p>
+<div align="center">
+  <a href="mailto:nomideveloper628@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-your--email%40example.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/noman-sajjad-infy">
+    <img src="https://img.shields.io/badge/LinkedIn-your--profile-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  &nbsp;
+  <a href="https://naumansajjad.infy.uk">
+    <img src="https://img.shields.io/badge/Portfolio-your--portfolio.com-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <strong>Let's build something great together! 🚀</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nomidevo8&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+### 💬 Developer Philosophy
+
+*"I don't just write code — I build systems that solve real business problems."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nomidevo8&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
