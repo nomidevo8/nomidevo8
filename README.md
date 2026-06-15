@@ -157,15 +157,15 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 <div align="center">
   <a href="mailto:nomideveloper628@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-your--email%40example.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-nomideveloper628@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/noman-sajjad-infy">
-    <img src="https://img.shields.io/badge/LinkedIn-your--profile-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/noman-sajjad-infy-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
   <a href="https://naumansajjad.infy.uk">
-    <img src="https://img.shields.io/badge/Portfolio-your--portfolio.com-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Portfolio-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
 </div>
 
