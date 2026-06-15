@@ -49,7 +49,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 **🎨 Frontend**
 
-<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -79,6 +78,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
   <p><em>Additional technologies in active development & experimentation</em></p>
   
   <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vue.js&logoColor=3AB795" />
   <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
 </div>
 
