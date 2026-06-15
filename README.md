@@ -66,7 +66,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
 **🗄️ Databases**
 
 <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/PostgresSql-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
 </div>
 
