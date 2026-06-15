@@ -92,6 +92,18 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="left">
+      <h3>✨ Voxenon — SaaS Landing Platform 🌟</h3>
+      <blockquote><strong>Featured Product:</strong> Performance-first SaaS landing page with conversion-optimized UX, brand storytelling, and launch-ready architecture.</blockquote>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code> <code>TypeScript</code> <code>Nest</code> <code>PostgresSQL</code></p>
+      ✅ SaaS-grade UI architecture<br/>
+      ✅ Fully responsive design<br/>
+      ✅ High Lighthouse score<br/>
+      ✅ Advanced analytics integration<br/>
+      ✅ Conversion-optimized landing<br/>
+      🔗 <a href="https://voxenon-landing.vercel.app/"><strong>Live Demo →</strong></a><br/>
+      🎬 <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing"><strong>Watch product video →</strong></a>
+    </td>
+    <td width="50%" valign="top" align="left">
       <h3>🔐 WordPress Client Portal</h3>
       <blockquote>Role-based client management system built on WordPress.</blockquote>
       <p><strong>Stack:</strong> <code>WordPress</code> <code>PHP</code> <code>MySQL</code></p>
@@ -100,6 +112,8 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Secure authentication system<br/>
       ✅ Multi-client support
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="left">
       <h3>🔌 REST API Backend System</h3>
       <blockquote>Scalable backend API with secure JWT authentication.</blockquote>
@@ -109,8 +123,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Middleware architecture<br/>
       ✅ Rate limiting & validation
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="left">
       <h3>🌐 Full Stack Web App</h3>
       <blockquote>End-to-end app with dynamic frontend and backend integration.</blockquote>
@@ -119,17 +131,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Responsive dynamic UI<br/>
       ✅ Relational database management<br/>
       ✅ State management
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3>✨ Voxenon — SaaS Landing Platform 🌟</h3>
-      <blockquote><strong>Featured Product:</strong> Performance-first SaaS landing page with conversion-optimized UX & enterprise-grade architecture.</blockquote>
-      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code><code>TailwindCSS</code> <code>TypeScript</code><code>Nest</code> <code>PostgresSQL</code></p>
-      ✅ SaaS-grade UI architecture<br/>
-      ✅ Fully responsive design<br/>
-      ✅ High Lighthouse score<br/>
-      ✅ Advanced analytics integration<br/>
-      ✅ Conversion-optimized landing<br/>
-      🔗 <a href="https://voxenon-landing.vercel.app/"><strong>Live Demo →</strong></a>
     </td>
   </tr>
 </table>
