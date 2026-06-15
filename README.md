@@ -29,19 +29,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 <br/>
 
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>🌟 i-Solutions Agency Website</h3>
-      <blockquote>Single-page agency website design and build for a modern digital services brand.</blockquote>
-      <p><strong>Live:</strong> <a href="https://agency.i-solutions.pro/">https://agency.i-solutions.pro/</a></p>
-      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive Design</code></p>
-      ✅ Clean modern agency UI<br/>
-      ✅ Responsive single-page layout<br/>
-      ✅ Brand-focused design system<br/>
-      ✅ Fast deployment and polish
-    </td>
-    <td width="50%"></td>
-  </tr>
+
 ---
 
 <div align="center">
@@ -152,6 +140,19 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Responsive dynamic UI<br/>
       ✅ Relational database management<br/>
       ✅ State management
+    </td>
+    <td width="50%"></td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top" align="left">
+      <h3>🌟 i-Solutions Agency Website</h3>
+      <blockquote>Single-page agency website design and build for a modern digital services brand.</blockquote>
+      <p><strong>Live:</strong> <a href="https://agency.i-solutions.pro/">https://agency.i-solutions.pro/</a></p>
+      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive Design</code></p>
+      ✅ Clean modern agency UI<br/>
+      ✅ Responsive single-page layout<br/>
+      ✅ Brand-focused design system<br/>
+      ✅ Fast deployment and polish
     </td>
     <td width="50%"></td>
   </tr>
