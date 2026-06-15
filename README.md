@@ -93,7 +93,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>✨ Voxenon — SaaS Landing Platform 🌟</h3>
-      <blockquote><strong>Featured Product:</strong> Performance-first SaaS landing page with conversion-optimized UX, brand storytelling, and launch-ready architecture.</blockquote>
+      <blockquote><strong>Featured Product:</strong> UI/UX-first SaaS landing page with premium brand design, conversion-focused messaging, and polished interaction flow.</blockquote>
       <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code> <code>TypeScript</code> <code>Nest</code> <code>PostgresSQL</code></p>
       ✅ SaaS-grade UI architecture<br/>
       ✅ Fully responsive design<br/>
@@ -103,6 +103,11 @@ mindset     : "Don't just write code — build systems that solve real problems.
       🔗 <a href="https://voxenon-landing.vercel.app/"><strong>Live Demo →</strong></a><br/>
       🎬 <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing"><strong>Watch product video →</strong></a>
     </td>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/voxenon-branding-image.png" alt="Voxenon SaaS landing platform preview" width="100%" style="border-radius:24px; box-shadow:0 24px 60px rgba(0,0,0,0.18); object-fit:cover;" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="left">
       <h3>🔐 WordPress Client Portal</h3>
       <blockquote>Role-based client management system built on WordPress.</blockquote>
@@ -112,8 +117,6 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Secure authentication system<br/>
       ✅ Multi-client support
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" align="left">
       <h3>🔌 REST API Backend System</h3>
       <blockquote>Scalable backend API with secure JWT authentication.</blockquote>
@@ -123,6 +126,8 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Middleware architecture<br/>
       ✅ Rate limiting & validation
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="left">
       <h3>🌐 Full Stack Web App</h3>
       <blockquote>End-to-end app with dynamic frontend and backend integration.</blockquote>
@@ -132,6 +137,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Relational database management<br/>
       ✅ State management
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
