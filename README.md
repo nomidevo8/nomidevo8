@@ -45,15 +45,17 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <img src="https://img.shields.io/badge/jQuery-1a1a2e?style=for-the-badge&logo=jquery&logoColor=78DBFF" />
 <img src="https://img.shields.io/badge/Liquid-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
 
-<br/><br/>
+<br/>
 
 **🎨 Frontend**
 
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
 
-<br/><br/>
+<br/>
 
 **⚙️ Backend & CMS**
 
@@ -62,19 +64,12 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
 <img src="https://img.shields.io/badge/Shopify-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
 
-<br/><br/>
+<br/>
 
 **🗄️ Databases**
 
 <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-
-<br/><br/>
-
-**🔧 Mid-Level / Additional**
-
-<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 
 </div>
 
@@ -116,86 +111,16 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ State management
     </td>
     <td width="50%" valign="top" align="left">
-      <h3>🔧 More projects coming soon...</h3>
-      <blockquote>Currently building & documenting more real-world solutions.</blockquote>
-      <br/><br/><br/>
+      <h3>✨ Voxenon — SaaS Landing Platform</h3>
+      <blockquote>Performance-first SaaS landing page with conversion-optimized UX.</blockquote>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code></p>
+      ✅ SaaS-grade UI architecture<br/>
+      ✅ Fully responsive design<br/>
+      ✅ High Lighthouse score<br/>
+      ✅ <a href="https://voxenon-landing.vercel.app/">🔗 Live Demo →</a>
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-<!-- ★ VOXENON FEATURED SAAS HIGHLIGHT ★ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" />
-
-<br/>
-
-### 🌟 &nbsp; FEATURED SAAS PRODUCT &nbsp; 🌟
-
-<br/>
-
-<a href="https://voxenon-landing.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=0&pause=999999&color=A78BFA&center=true&vCenter=true&width=500&height=60&lines=✦+VOXENON+✦" alt="Voxenon" />
-</a>
-
-<br/>
-
-**Modern SaaS Landing Platform — Built for Performance & Conversion**
-
-<br/>
-
-<a href="https://voxenon-landing.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-voxenon--landing.vercel.app-A78BFA?style=for-the-badge&labelColor=0f0c29" />
-</a>
-
-<br/><br/>
-
-<table width="80%" align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🧠</h3>
-      <strong>SaaS Architecture</strong><br/>
-      <sub>Modular, scalable landing structure built for real products</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🎯</h3>
-      <strong>Conversion UX</strong><br/>
-      <sub>Every section designed to drive signups & engagement</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>📱</h3>
-      <strong>Fully Responsive</strong><br/>
-      <sub>Pixel-perfect across mobile, tablet & desktop</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>⚡</h3>
-      <strong>High Performance</strong><br/>
-      <sub>Optimized for speed, SEO & Lighthouse scores</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-0f0c29?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Vercel-0f0c29?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-
-<br/><br/>
-
-> *"Demonstrates real SaaS product thinking — frontend engineering at startup level."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3" />
-
-</div>
 
 <br/>
 
@@ -218,6 +143,16 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 ---
 
+<!-- ## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nomidevo8&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+</div> -->
+
+<br/>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -226,11 +161,11 @@ mindset     : "Don't just write code — build systems that solve real problems.
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/noman-sajjad-infy">
-    <img src="https://img.shields.io/badge/LinkedIn-noman--sajjad--infy-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/noman-sajjad-infy-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
   <a href="https://naumansajjad.infy.uk">
-    <img src="https://img.shields.io/badge/Portfolio-naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Portfolio-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
 </div>
 
