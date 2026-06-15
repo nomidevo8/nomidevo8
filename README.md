@@ -18,9 +18,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-### ⚙️ Backend & CMS
+### 🛒 Shopify & CMS
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -56,16 +61,29 @@ A complete web app with frontend + backend integration.
 - Tech: React, Node.js, MySQL
 - Features: API integration, dynamic UI, database management
 
+### 🔹 Voxenon SaaS Landing Page
+A modern SaaS landing page built with clean UI/UX principles and responsive design.
+
+🔗 Live Demo: https://voxenon-landing.vercel.app/
+
+- Focus: SaaS product marketing page
+- Tech: React / Next.js / Tailwind (adjust if needed)
+- Features: Responsive UI, modern design system, conversion-focused layout
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomidevo8&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nomidevo8&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomidevo8&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
