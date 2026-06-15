@@ -111,7 +111,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
     <td width="50%" valign="top" align="left">
       <h3>✨ Voxenon — SaaS Landing Platform 🌟</h3>
       <blockquote><strong>Featured Product:</strong> Performance-first SaaS landing page with conversion-optimized UX & enterprise-grade architecture.</blockquote>
-      <p><strong>Stack:</strong> <code>Next.js</code> <code>TailwindCSS</code> <code>TypeScript</code></p>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code><code>TailwindCSS</code> <code>TypeScript</code><code>Nest</code> <code>PostgresSQL</code></p>
       ✅ SaaS-grade UI architecture<br/>
       ✅ Fully responsive design<br/>
       ✅ High Lighthouse score<br/>
