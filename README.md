@@ -19,7 +19,7 @@
 ## `$ whoami`
 
 ```yaml
-name        : Nomi
+name        : Nauman Sajjad
 role        : Full Stack & WordPress Developer
 location    : Pakistan 🇵🇰
 focus       : Scalable web systems, APIs & business automation
