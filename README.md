@@ -141,10 +141,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Relational database management<br/>
       ✅ State management
     </td>
-    <td width="50%"></td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top" align="left">
+     <td width="50%" valign="top" align="left">
       <h3>🌟 i-Solutions Agency Website</h3>
       <blockquote>Single-page agency website design and build for a modern digital services brand.</blockquote>
       <p><strong>Live:</strong> <a href="https://agency.i-solutions.pro/">https://agency.i-solutions.pro/</a></p>
@@ -154,8 +151,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ Brand-focused design system<br/>
       ✅ Fast deployment and polish
     </td>
-    <td width="50%"></td>
-  </tr>
+
 </table>
 
 <div align="center" style="margin-top:28px; padding:24px; border-radius:24px; background:#0f172a; box-shadow:0 24px 70px rgba(15,23,42,0.25);">
