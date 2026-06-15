@@ -92,20 +92,21 @@ mindset     : "Don't just write code — build systems that solve real problems.
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="left">
-      <h3>✨ Voxenon — SaaS Landing Platform 🌟</h3>
-      <blockquote><strong>Featured Product:</strong> UI/UX-first SaaS landing page with premium brand design, conversion-focused messaging, and polished interaction flow.</blockquote>
+      <h3>✨ Voxenon — SaaS Platform 🌟</h3>
+      <blockquote><strong>Featured Product:</strong> Live SaaS product with a polished launch page, full app experience, and premium brand design.</blockquote>
       <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code> <code>TypeScript</code> <code>Nest</code> <code>PostgresSQL</code></p>
-      ✅ SaaS-grade UI architecture<br/>
-      ✅ Fully responsive design<br/>
+      ✅ Live SaaS product with working app flow<br/>
+      ✅ Landing page optimized for conversions<br/>
+      ✅ End-to-end production user experience<br/>
       ✅ High Lighthouse score<br/>
       ✅ Advanced analytics integration<br/>
-      ✅ Conversion-optimized landing<br/>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="assets/voxenon-branding-image.png" alt="Voxenon SaaS landing platform preview" width="100%" style="border-radius:24px; box-shadow:0 24px 60px rgba(0,0,0,0.18); object-fit:cover;" />
       <div style="margin-top:16px; text-align:center;">
-        <a href="https://voxenon-landing.vercel.app/" style="display:inline-block; padding:12px 20px; margin:0 8px 8px 0; border-radius:999px; background:#000; color:#fff; text-decoration:none; font-weight:700;">Live Demo →</a>
-        <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing" style="display:inline-block; padding:12px 20px; margin:0 0 8px 8px; border-radius:999px; background:#1a1a1a; color:#A78BFA; text-decoration:none; font-weight:700;">Watch product video →</a>
+        <a href="https://voxenon-landing.vercel.app/" style="display:inline-block; padding:12px 20px; margin:0 8px 8px 0; border-radius:999px; background:#000; color:#fff; text-decoration:none; font-weight:700;">Landing Page →</a>
+        <a href="https://voxenon.vercel.app/" style="display:inline-block; padding:12px 20px; margin:0 0 8px 8px; border-radius:999px; background:#111; color:#A78BFA; text-decoration:none; font-weight:700;">App URL →</a><br/>
+        <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing" style="display:inline-block; padding:12px 20px; margin:8px 0 0 0; border-radius:999px; background:#1a1a1a; color:#A78BFA; text-decoration:none; font-weight:700;">Watch product video →</a>
       </div>
     </td>
   </tr>
