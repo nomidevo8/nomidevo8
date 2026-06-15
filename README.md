@@ -100,11 +100,13 @@ mindset     : "Don't just write code — build systems that solve real problems.
       ✅ High Lighthouse score<br/>
       ✅ Advanced analytics integration<br/>
       ✅ Conversion-optimized landing<br/>
-      🔗 <a href="https://voxenon-landing.vercel.app/"><strong>Live Demo →</strong></a><br/>
-      🎬 <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing"><strong>Watch product video →</strong></a>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="assets/voxenon-branding-image.png" alt="Voxenon SaaS landing platform preview" width="100%" style="border-radius:24px; box-shadow:0 24px 60px rgba(0,0,0,0.18); object-fit:cover;" />
+      <div style="margin-top:16px; text-align:center;">
+        <a href="https://voxenon-landing.vercel.app/" style="display:inline-block; padding:12px 20px; margin:0 8px 8px 0; border-radius:999px; background:#000; color:#fff; text-decoration:none; font-weight:700;">Live Demo →</a>
+        <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing" style="display:inline-block; padding:12px 20px; margin:0 0 8px 8px; border-radius:999px; background:#1a1a1a; color:#A78BFA; text-decoration:none; font-weight:700;">Watch product video →</a>
+      </div>
     </td>
   </tr>
   <tr>
@@ -141,6 +143,14 @@ mindset     : "Don't just write code — build systems that solve real problems.
   </tr>
 </table>
 
+<div align="center" style="margin-top:28px; padding:24px; border-radius:24px; background:#0f172a; box-shadow:0 24px 70px rgba(15,23,42,0.25);">
+  <a href="https://naumansajjad.infy.uk" style="font-size:18px; font-weight:700; color:#e2e8f0; text-decoration:none;">
+    See more case studies & portfolio work →
+  </a>
+</div>
+  </tr>
+</table>
+
 <br/>
 
 ---
@@ -170,7 +180,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/noman-sajjad-infy">
-    <img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/noman-sajjad-infy-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="https://naumansajjad.infy.uk">
