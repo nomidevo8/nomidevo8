@@ -1,6 +1,6 @@
 <!-- HEADER WAVE BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Nomi%20Developer&desc=Full%20Stack%20Developer%20-nl-%20WordPress%20Engineer%20%E2%80%A2%Shopify Theme Customization%20Developer%20-nl-%20Building%20SaaS%20Products%20and%20Business%20Solutions&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Nomi%20Developer&desc=Full%20Stack%20Developer%20-nl-%20WordPress%20Engineer%20%E2%80%A2%20Shopify%20Developer%20-nl-%20Building%20SaaS%20Products%20and%20Business%20Solutions&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Shopify Theme Customization+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Shopify+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
