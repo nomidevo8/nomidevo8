@@ -21,7 +21,7 @@
 ```yaml
 name        : Nauman Sajjad
 role        : Full Stack & WordPress Developer
-location    : Pakistan 🇵🇰
+location    : Lahore, Punjab, Pakistan 🇵🇰
 focus       : Scalable web systems, APIs & business automation
 available   : Open to freelance & remote opportunities
 mindset     : "Don't just write code — build systems that solve real problems."
